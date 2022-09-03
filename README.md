@@ -5,9 +5,7 @@ This is the source code of the interactive presentation about visualisations and
 Lindner, F., Reiner, G. and Keil, S. (2022), “Visualisations and cognition in behavioural operations management: (de-)biased decision-making”, *29th EurOMA Conference 2022*, Berlin, Germany.
 
 ## Acknowledgments
-The presentation was built using [Strut.io](https://strut.io/)[^1], based on [impress.js](https://impress.js.org/)[^2].
-
-The cover photo is from ThisIsEngineering from [Pexels](https://www.pexels.com/de-de/foto/code-uber-frau-projiziert-3861969/).
+The presentation was built using [Strut.io](https://strut.io/)[^1], based on [impress.js](https://impress.js.org/)[^2]. The cover photo is from ThisIsEngineering from [Pexels](https://www.pexels.com/de-de/foto/code-uber-frau-projiziert-3861969/).
 
 ## License
 
