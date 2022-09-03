@@ -8,7 +8,7 @@ Lindner, F., Reiner, G. and Keil, S. (2022), “Visualisations and cognition in 
 The presentation was built using [Strut.io](https://strut.io/)[^1], based on [impress.js](https://impress.js.org/)[^2]. The cover photo is from ThisIsEngineering from [Pexels](https://www.pexels.com/de-de/foto/code-uber-frau-projiziert-3861969/).
 
 ## License
-This repository is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+This repository is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 [^1]: [View on GitHub](https://github.com/tantaman/Strut)
 [^2]: [View on GitHub](https://github.com/impress/impress.js)
