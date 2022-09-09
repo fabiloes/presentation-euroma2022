@@ -1,7 +1,9 @@
 # Interactive EurOMA 2022 Presentation
 ![A woman looks into the camera while code is projected over here.](https://github.com/fabiloes/presentation-euroma2022/blob/main/images/pexels-thisisengineering-1500.jpg)
 
-This is the source code of the interactive presentation about visualisations and cognition in behavioral operations management, held at the 29th EurOMA Conference 2022 in Berlin. You can view the presentation at https://lindnerfabian.de/projects/pom-visuals/euroma2022/.
+This is the source code of the interactive presentation about visualisations and cognition in behavioral operations management, held at the 29th EurOMA Conference 2022 in Berlin.
+
+You can view the presentation at https://lindnerfabian.de/projects/pom-visuals/euroma2022/.
 
 ## Cite as
 Lindner, F., Reiner, G. and Keil, S. (2022), “Visualisations and cognition in behavioural operations management: (de-)biased decision-making”, *29th EurOMA Conference 2022*, Berlin, Germany.
