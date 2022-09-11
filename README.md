@@ -16,6 +16,6 @@ The presentation was built using [Strut.io](https://strut.io/)[^1], based on [im
 ## License
 This repository is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)[^3].
 
-[^1]: [View on GitHub](https://github.com/tantaman/Strut)
-[^2]: [View on GitHub](https://github.com/impress/impress.js)
+[^1]: [View Strut on GitHub](https://github.com/tantaman/Strut)
+[^2]: [View impress.js on GitHub](https://github.com/impress/impress.js)
 [^3]: [View license](https://github.com/fabiloes/presentation-euroma2022/blob/main/LICENSE.md)
